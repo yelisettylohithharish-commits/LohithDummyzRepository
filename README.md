@@ -1,2 +1,2 @@
 # LohithDummyzRepository
-Repository is created fo testing
+Repository is created for testing
